@@ -1,0 +1,7 @@
+title： 观察者-能量理论
+description： 一个可计算的心理动力学框架
+theme： minima
+markdown： kramdown
+kramdown：
+  math_engine： mathjax
+  input： GFM
